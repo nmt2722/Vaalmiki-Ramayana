@@ -1,0 +1,3 @@
+# This repository holds generated static output. Keep every file byte-for-byte
+# as produced by Quarto rather than applying Git's line-ending conversion.
+* -text

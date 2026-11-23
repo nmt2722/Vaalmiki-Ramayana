@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" role="img" aria-label="Lotus ornament">
+  <g fill="none" stroke="#c19a3d" stroke-width="1.2" stroke-linecap="round">
+    <path d="M120 38 C104 30 100 18 120 6 C140 18 136 30 120 38 Z"/>
+    <path d="M120 38 C104 36 88 28 82 14 C98 14 112 24 120 38 Z"/>
+    <path d="M120 38 C136 36 152 28 158 14 C142 14 128 24 120 38 Z"/>
+    <path d="M120 38 C104 40 86 38 74 30 C88 24 106 28 120 38 Z"/>
+    <path d="M120 38 C136 40 154 38 166 30 C152 24 134 28 120 38 Z"/>
+    <path d="M4 38 H70 M170 38 H236" stroke-opacity="0.65"/>
+  </g>
+  <circle cx="120" cy="42" r="2.2" fill="#d97a2b"/>
+</svg>
